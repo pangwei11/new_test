@@ -18,6 +18,9 @@
 #include <linux/delay.h>
 #include <linux/mutex.h>
 
+//修改测试
+
+//测试
 
 // 寄存器读写控制位
 #define AN41908_WRITE_CMD 0x00  // C0=0（写模式）
