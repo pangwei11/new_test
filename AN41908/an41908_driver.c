@@ -22,6 +22,8 @@
 
 //测试
 
+//ceshi
+
 // 寄存器读写控制位
 #define AN41908_WRITE_CMD 0x00  // C0=0（写模式）
 #define AN41908_READ_CMD  0x40  // C0=1（读模式，bit6置1）
